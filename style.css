@@ -41,6 +41,7 @@ a {/*header links as individuals, children of ul*/
 .smalltext{
     font-size: 18px;
     flex-wrap: wrap;
+    font-weight: lighter;
 }
 
 .btn {
